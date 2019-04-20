@@ -1,29 +1,11 @@
-## Examples
+# Testavimas
 
-[![Demo 1](https://cloud.githubusercontent.com/assets/398893/3709347/ec72876c-1453-11e4-8450-149d06d487f2.jpg)](http://trackingjs.com/examples/face_tag_friends.html)
-[![Demo 2](https://cloud.githubusercontent.com/assets/398893/3709357/1a1c2e16-1454-11e4-804d-e6ada6c65997.jpg)](http://trackingjs.com/examples/face_fish_tank.html)
-[![Demo 3](https://cloud.githubusercontent.com/assets/398893/3709361/38f86e8a-1454-11e4-811d-52bd21b37e85.jpg)](http://trackingjs.com/examples/color_hexgl.html)
-[![Demo 4](https://cloud.githubusercontent.com/assets/398893/3709464/5447a302-1456-11e4-96b2-d2fae28e2a01.jpg)](http://trackingjs.com/examples/color_draw_something.html)
-[![Demo 5](https://cloud.githubusercontent.com/assets/398893/3709469/6a3e859a-1456-11e4-982a-d46a55890e1e.jpg)](http://trackingjs.com/examples/color_fish_tank.html)
+Ištestuota su šiomis naršyklėmis:
+Google Chrome 73.0.3683.103 (Official Build) (64-bit)
+<br>
+Microsoft Edge 44.17763.1.0
 
-## Features
-
-* [Trackers](http://trackingjs.com/docs.html#trackers)
-  * [Color Tracker](http://trackingjs.com/docs.html#color-tracker)
-  * [Object Tracker](http://trackingjs.com/docs.html#object-tracker)
-* [Utilities](http://trackingjs.com/docs.html#utilities)
-  * [Feature Detection (Fast)](http://trackingjs.com/docs.html#feature-detection)
-  * [Feature Descriptor (Brief)](http://trackingjs.com/docs.html#feature-descriptor)
-  * [Convolution](http://trackingjs.com/docs.html#convolution)
-  * [Gray Scale](http://trackingjs.com/docs.html#gray-scale)
-  * [Image Blur](http://trackingjs.com/docs.html#image-blur)
-  * [Integral Image](http://trackingjs.com/docs.html#integral-image)
-  * [Sobel](http://trackingjs.com/docs.html#sobel)
-  * [Viola Jones](http://trackingjs.com/docs.html#viola-jones)
-* [Web Components](http://trackingjs.com/docs.html#web-components)
-  * [Color Element](http://trackingjs.com/docs.html#color-element)
-  * [Object Element](http://trackingjs.com/docs.html#object-element)
-  # mediaLab4
+Buvo sukurtas loginis W diskas, kuris panaudotas kaip web server. Prieiga vidinė.
 
 This lab aims to build your first WebRTC app.
 
